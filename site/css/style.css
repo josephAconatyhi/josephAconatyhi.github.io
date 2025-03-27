@@ -5,3 +5,7 @@ body {
    main {
        background-color: #90D6FF;
    }
+
+   text {
+    font-family: "Times New Roman", serif; 
+   }
